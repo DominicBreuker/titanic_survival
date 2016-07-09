@@ -18,6 +18,8 @@ The task is to create a decision tree, but without an algorithm :)
 
 Check out `Titanic_Survival_Exploration.ipynb` to see how it's done.
 
+You can see the latest version at the [GitHub page](https://dominicbreuker.github.io/titanic_survival/)
+
 ## Getting started
 
 ### Virtual environment and packages
