@@ -25,3 +25,14 @@ If you ever add new packages, keep "requirements.txt" updated. Run "pip3 install
 ### Running jupyter notebook
 
 Run "jupyter notebook Titanic_Survival_Exploration.ipynb" to work on the dataset.
+
+
+## Troubleshooting
+
+I am using OSX with python 3.5 and pandas 0.18.1. On importing pandas, I get a "ValueError: unknown locale: UTF-8".
+
+Run the following code before starting the notebook to solve the issue.
+```bash
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+```
