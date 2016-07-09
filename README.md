@@ -14,6 +14,10 @@ The dataset can be found in "titanic_data.csv". It contains information about ti
 - Cabin
 - Embarked
 
+The task is to create a decision tree, but without an algorithm :)
+
+Check out "Titanic_Survival_Exploration.ipynb" to see how it's done.
+
 ## Getting started
 
 ### Virtual environment and packages
@@ -27,7 +31,7 @@ If you ever add new packages, keep "requirements.txt" updated. Run "pip3 install
 Run "jupyter notebook Titanic_Survival_Exploration.ipynb" to work on the dataset.
 
 
-## Troubleshooting
+### Troubleshooting
 
 I am using OSX with python 3.5 and pandas 0.18.1. On importing pandas, I get a "ValueError: unknown locale: UTF-8".
 
