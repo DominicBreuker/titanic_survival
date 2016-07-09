@@ -1,6 +1,6 @@
 # Titanic machine learning dataset
 
-The dataset can be found in "titanic_data.csv". It contains information about titanic passengers. The goal is to predict whether they survived based on the information provided. The attributes are:
+The dataset can be found in `titanic_data.csv`. It contains information about titanic passengers. The goal is to predict whether they survived based on the information provided. The attributes are:
 - PassengerId
 - Survived
 - Pclass
